@@ -22,6 +22,6 @@ Now download the discord-token-fetcher.txt extension.
 <br>
 Go to your kiwi browser and login to your discord [https://discord.com/login].
 <br>
-Now add that extension in your kiwi browser, Now refresh your discord page, you'll get a token.
+Now click menu > extensions > +(from.zip/.crx/user.js) in your kiwi browser and add that downloaded extension and turn on, Now refresh your discord page, you'll get a token.
 <br>
 Come to our project and add your token to env.
