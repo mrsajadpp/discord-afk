@@ -5,7 +5,7 @@ git clone https://github.com/mrsajadpp/discord-afk.git
 ```
 Next step go to discord-afk repository.
 ```md
-CD discord-afk
+cd discord-afk
 ```
 Now type.
 ```md
